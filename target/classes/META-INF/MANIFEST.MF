@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: matheus
+Build-Jdk: 11.0.5
+Implementation-Title: Virtual-Wallet
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.wallet
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/Virtual-Wallet
+ /
+Created-By: Maven Integration for Eclipse
+
